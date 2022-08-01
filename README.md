@@ -1,5 +1,11 @@
 # Simple-Calculation-Verifier
 
+
+### Try this app on Web 
+
+Since I have worked with php based frameworks before, I have the experience of deploying projects live on the web. For your ease, I have deployed this assignment on a free
+hosting, you can check it in this link https://simple-calculation.000webhostapp.com/. To run this project locally on your machine, please follow the steps below.
+
 ### Requirements
 
 PHP 7.4.29 or higher </br>
