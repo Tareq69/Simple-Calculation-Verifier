@@ -35,8 +35,8 @@ I used html and bootstrap to create a simple user interface for the app. I creat
 
 ## Back-end:
 
-I created a controller called Home controller where i handled the logical part of the app. I gathered the data that the user submitted the form using the global $_POST super global variable  and stored them in other variables. Next, I used switch statement to check for the operand and calculate the numbers according to the operand. For example, if a user selects a '+' operator in the html form, i would add firstNumber and secondNumber inside the switch statement and break from it. Finally, I used a if-else statement to check whether the result of the calculation matched with the answer that was provided by the user in the form. I store data accroding to the condition. If result and answer matched I saved a string 'Correct!' and 'Not correct!' otherwise. This data was sent to the result view which is shown to the user. 
+I created a controller called Home controller where i handled the logical part of the app. I gathered the data that the user submitted the form using the  $_POST super global variable and stored them in other local variables. Next, I used switch statement to check for the operand and calculate the numbers according to the operand. For example, if a user selects a '+' operator in the html form, i would add firstNumber and secondNumber inside the switch statement and break from it. Finally, I used a if-else statement to check whether the result of the calculation matched with the answer that was provided by the user in the form. I store data accroding to the condition. If result and answer matched I saved a string 'Correct!' and 'Not correct!' otherwise. This data was sent to the result view which is shown to the user. 
 
-I only used 2 routes for the whole app where '/' route returns the main view with the form and '/result' route returns the result view according to the controller.
+I only used 2 routes for the whole app where '/' route returns the main view which has  the form and '/result' route returns the result view according to the controller.
 
 
