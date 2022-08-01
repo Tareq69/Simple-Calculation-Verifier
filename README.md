@@ -27,7 +27,7 @@ Upon running this command a new CodeIgniter development server will start where 
 
 ```  http://localhost:8080 ```
 
-Now, you can enter all the numbers, select a operand and enter your answer and click the verify button. You will be redirected to a new page where whether 
+Now, you may enter two numbers, select a operand and enter your answer and click the verify answer button. You will be redirected to a new page where whether 
 the answer is correct or not correct is displayed using a alert message. You can can click on the link below to go back to the homepage and to verify another
 operation.
 
