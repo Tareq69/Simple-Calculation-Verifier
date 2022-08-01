@@ -1,4 +1,4 @@
-# Simple-Calculation-Verifyer
+# Simple-Calculation-Verifier
 
 ### Requirements
 
